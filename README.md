@@ -7,4 +7,4 @@
 
 
 
-[![knetero's GitHub stats](https://github-readme-stats.vercel.app/api?username=knetero)](https://github.com/anuraghazra/github-readme-stats)
+![knetero's GitHub stats](https://github-readme-stats.vercel.app/api?username=knetero&show_icons=true&theme=merko)
