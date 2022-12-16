@@ -2,7 +2,11 @@
 - 🌱 I'm currently a student at 1337khouribga.
 
 
+
+
 [![<abazerou>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42)
+  
+  
 
 
 
