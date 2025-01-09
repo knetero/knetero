@@ -4,7 +4,7 @@
 ---
 
 ## 🌱 About Me  
-I’m currently a student at **1337 Khouribga**, where I’m honing my skills in programming and software development. I’m passionate about building modern, responsive, and user-friendly web applications using **React.js** and **Next.js**. I love exploring new technologies and contributing to open-source projects.
+I’m a passionate **Frontend Developer** currently studying at **1337 Khouribga**, where I’m sharpening my skills in programming and software development. I specialize in building modern, responsive, and user-friendly web applications using **React.js** and **Next.js**. I’m always eager to explore new technologies, contribute to open-source projects, and solve real-world problems through code.
 
 ---
 
@@ -41,7 +41,6 @@ Here are the tools and technologies I work with:
 
 ---
 
-
 ## 📫 Let’s Connect!  
 I’m always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out:  
 
@@ -49,3 +48,4 @@ I’m always open to collaborating on exciting projects or discussing new ideas.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/azero853)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azabdellah044@gmail.com)  
 
+---
