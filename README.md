@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **Knetero**  
-### Frontend Developer | React.js & Next.js Enthusiast  
+### Frontend Developer
 
 ---
 
@@ -20,6 +20,7 @@ Here are the tools and technologies I work with:
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 - **Tools**:  
 
