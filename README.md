@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Knetero**  
+# 👋 Hi, I’m **Abdellah**  
 ### Frontend Developer
 
 ---
