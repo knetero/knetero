@@ -8,6 +8,12 @@ I’m a passionate **Frontend Developer** currently studying at **1337 Khouribga
 
 ---
 
+## 🏆 1337 (42 Network) Stats  
+
+[![abazerou's 42 stats](https://badge.mediaplus.ma/binary/abazerou)](https://github.com/oakoudad/badge42)  
+
+---
+
 ## 🛠️ Technologies & Tools  
 Here are the tools and technologies I work with:  
 
@@ -39,11 +45,7 @@ Here are the tools and technologies I work with:
 
 ---
 
-## 🏆 1337 (42 Network) Stats  
 
-[![abazerou's 42 stats](https://badge.mediaplus.ma/binary/abazerou)](https://github.com/oakoudad/badge42)  
-
----
 
 ## 📫 Let’s Connect!  
 I’m always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out:  
